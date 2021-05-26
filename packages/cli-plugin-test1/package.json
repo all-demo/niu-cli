@@ -1,6 +1,6 @@
 {
   "name": "@niu/cli-plugin-test1",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "niu插件",
   "keywords": [
     "niu",
@@ -26,8 +26,5 @@
   },
   "bugs": {
     "url": "https://github.com/all-demo/niu-cli/issues"
-  },
-  "dependencies": {
-    "@niu/cli-plugin-test2": "^0.0.1"
   }
 }
