@@ -1,6 +1,6 @@
 {
   "name": "@niu/cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "命令行工具",
   "bin": {
     "niu": "./bin/index.js"
@@ -33,8 +33,8 @@
     "url": "https://github.com/all-demo/niu-cli/issues"
   },
   "dependencies": {
-    "@niu/cli-plugin-test1": "^0.0.3",
-    "@niu/cli-plugin-test2": "^0.0.3"
+    "@niu/cli-plugin-test1": "^0.0.4",
+    "@niu/cli-plugin-test2": "^0.0.4"
   },
   "gitHead": "0a33ba2b3e4b7a438c57330d72242f22655dde3e"
 }
