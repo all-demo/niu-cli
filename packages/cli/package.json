@@ -35,5 +35,6 @@
   "dependencies": {
     "@niu/cli-plugin-test1": "^0.0.3",
     "@niu/cli-plugin-test2": "^0.0.3"
-  }
+  },
+  "gitHead": "0a33ba2b3e4b7a438c57330d72242f22655dde3e"
 }
