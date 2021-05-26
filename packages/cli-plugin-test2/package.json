@@ -17,6 +17,10 @@
     "type": "git",
     "url": "git+https://github.com/all-demo/niu-cli.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npm.org/",
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
