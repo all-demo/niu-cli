@@ -31,5 +31,9 @@
   },
   "bugs": {
     "url": "https://github.com/all-demo/niu-cli/issues"
+  },
+  "dependencies": {
+    "@niu/cli-plugin-test1": "^0.0.0",
+    "@niu/cli-plugin-test2": "^0.0.0"
   }
 }
