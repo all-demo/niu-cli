@@ -1,6 +1,6 @@
 {
   "name": "@niu/cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "命令行工具",
   "bin": {
     "niu": "./bin/index.js"
@@ -34,7 +34,7 @@
   },
   "gitHead": "8826a57f31b7c4ff13fd7fb7995e77e0ea8bc165",
   "dependencies": {
-    "@niu/cli-plugin-test1": "^0.0.0",
-    "@niu/cli-plugin-test2": "^0.0.0"
+    "@niu/cli-plugin-test1": "^0.0.1",
+    "@niu/cli-plugin-test2": "^0.0.1"
   }
 }
