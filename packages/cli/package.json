@@ -1,6 +1,6 @@
 {
   "name": "@niu/cli",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "命令行工具",
   "bin": {
     "niu": "./bin/index.js"
