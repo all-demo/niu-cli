@@ -1,6 +1,6 @@
 {
   "name": "@niu/cli-plugin-test2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "ruomu.shang <ruomu.shang@tuya.com>",
   "homepage": "https://github.com/all-demo/niu-cli#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/all-demo/niu-cli/issues"
   },
   "dependencies": {
-    "@niu/cli-plugin-test1": "^0.0.0"
+    "@niu/cli-plugin-test1": "^0.0.1"
   },
   "gitHead": "c9e8f61f904947226c845488c29d854d16f5f0b0"
 }
