@@ -1,5 +1,5 @@
 {
-  "name": "@niu/cli",
+  "name": "@niub/cli",
   "version": "0.0.5",
   "description": "命令行工具",
   "bin": {
@@ -36,5 +36,5 @@
     "@niu/cli-plugin-test1": "^0.0.5",
     "@niu/cli-plugin-test2": "^0.0.5"
   },
-  "gitHead": "0babe2dbe7160506ecad5fe055f8b23b5599f4e1"
+  "gitHead": "814bdd37b01f5f8d06128868d5f96f274c9eebe1"
 }

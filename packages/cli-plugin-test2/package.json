@@ -1,5 +1,5 @@
 {
-  "name": "@niu/cli-plugin-test2",
+  "name": "@niub/cli-plugin-test2",
   "version": "0.0.5",
   "description": "> TODO: description",
   "author": "ruomu.shang <ruomu.shang@tuya.com>",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/all-demo/niu-cli/issues"
   },
-  "gitHead": "0babe2dbe7160506ecad5fe055f8b23b5599f4e1"
+  "gitHead": "814bdd37b01f5f8d06128868d5f96f274c9eebe1"
 }
