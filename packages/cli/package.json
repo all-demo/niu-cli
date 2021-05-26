@@ -20,7 +20,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "registry": "https://registry.npm.org/"
   },
   "repository": {
     "type": "git",
@@ -32,9 +32,9 @@
   "bugs": {
     "url": "https://github.com/all-demo/niu-cli/issues"
   },
+  "gitHead": "8826a57f31b7c4ff13fd7fb7995e77e0ea8bc165",
   "dependencies": {
-    "@niu/cli-plugin-test1": "^0.0.1",
-    "@niu/cli-plugin-test2": "^0.0.1"
-  },
-  "gitHead": "c9e8f61f904947226c845488c29d854d16f5f0b0"
+    "@niu/cli-plugin-test1": "^0.0.0",
+    "@niu/cli-plugin-test2": "^0.0.0"
+  }
 }
