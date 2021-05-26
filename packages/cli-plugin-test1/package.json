@@ -1,6 +1,6 @@
 {
   "name": "@niu/cli-plugin-test1",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "niu插件",
   "keywords": [
     "niu",
@@ -17,9 +17,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/all-demo/niu-cli.git"
@@ -31,7 +28,6 @@
     "url": "https://github.com/all-demo/niu-cli/issues"
   },
   "dependencies": {
-    "@niu/cli-plugin-test2": "^0.0.1"
-  },
-  "gitHead": "c9e8f61f904947226c845488c29d854d16f5f0b0"
+    "@niu/cli-plugin-test2": "^0.0.0"
+  }
 }
